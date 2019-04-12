@@ -12,8 +12,8 @@ flow:
       repo:
           id: packagecloud
           type: default
-          url: https://packagecloud.io/yanivr/amaterasu-demo/maven2
-      class: DataGenerator
+          url: https://packagecloud.io/yanivr/amaterasu-sample/maven2
+      class: FirstStep
       exports:
           odd: parquet
     - name: step2
