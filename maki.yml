@@ -7,8 +7,8 @@ flow:
           type: jar        
       artifact: 
           groupId: io.shinto
-          artifactId: amaterasu-simple-spark
-          version: 0.2
+          artifactId: amaterasu-spark-sample
+          version: 0.2.0
       repo:
           id: packagecloud
           type: default
