@@ -7,12 +7,12 @@ flow:
           type: jar        
       artifact: 
           groupId: io.shinto
-          artifactId: amaterasu-simple-spark
-          version: 0.3
+          artifactId: amaterasu-spark-sample
+          version: 0.1.0
       repo:
           id: packagecloud
           type: default
-          url: https://packagecloud.io/yanivr/amaterasu-demo/maven2
+          url: https://packagecloud.io/yanivr/amaterasu-sample/maven2
       class: DataGenerator
       exports:
           odd: parquet
