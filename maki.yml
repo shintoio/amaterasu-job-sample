@@ -13,7 +13,7 @@ flow:
           id: packagecloud
           type: default
           url: https://packagecloud.io/yanivr/amaterasu-sample/maven2
-      class: DataGenerator
+      class: FirstStep
       exports:
           odd: parquet
     - name: step2
